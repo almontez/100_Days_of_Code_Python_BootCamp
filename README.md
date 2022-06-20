@@ -4,7 +4,7 @@ Repository for projects completed with the London App Brewery Python Bootcamp. B
 Current Completed Projects include: 
 
 Beginner:
-Day 1: Name Generator
+Day 1: Name Generator;
 Day 2: Bill Calculator
 Day 3: Choose Your Own Adventure 
 Day 4: Rock, Paper, Scissors
